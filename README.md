@@ -1,2 +1,2 @@
 # first-primary-ML
-Melbourne_houses_price
+Prediction of Melbourne house prices by simple decision tree regression and then evaluating the least MAE
